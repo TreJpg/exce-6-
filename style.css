@@ -46,8 +46,8 @@ th {
 td img {
 	max-width: 200px;
 	max-height: 200px;
-  height: 100%;
   width: auto;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
